@@ -67,7 +67,7 @@ define('DEFAULT_TARGET_CHARSET', 'UTF-8');
 define('DEFAULT_BR_TEXT', "\r\n");
 define('DEFAULT_SPAN_TEXT', " ");
 define('MAX_FILE_SIZE', 600000);
-define('OUTPUT_PATH',  realpath(dirname(__FILE__) . '/../') . '/xml/');
+define('OUTPUT_PATH',  realpath(dirname(__FILE__) . '/../') . '/xmlResult/');
 // helper functions
 // -----------------------------------------------------------------------------
 // get html dom from file
